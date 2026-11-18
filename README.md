@@ -2,7 +2,7 @@
 
 A bouquet of lilies and tulips that grows in your terminal, drawn entirely with characters.
 
-> **Heads-up:** this is not a serious project. I started it to experiment after seeing an ASCII art reel ("ASCII lilly bouquet" by [@arimecoa](https://www.instagram.com/arimecoa/)) and wondering how to build something like it in Python. It isn't meant to be a library or a product, and it has limitations I don't plan to fix (see [Limitations](#limitations)). Even so, the internals are explained properly below in case they're useful to someone.
+> **Heads-up:** this is not a serious project. I started it to experiment after finding the Instagram page of [@arimecoa](https://www.instagram.com/arimecoa/), which inspired it, specifically their ASCII art reel "ASCII lilly bouquet", and wondering how to build something like it in Python. All credit for the idea goes to them. It isn't meant to be a library or a product, and it has limitations I don't plan to fix (see [Limitations](#limitations)). Even so, the internals are explained properly below in case they're useful to someone.
 
 ## What it does
 
