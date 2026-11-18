@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+.vscode/
+# generated exports (may contain personal text)
+*.gif
+*.mp4
